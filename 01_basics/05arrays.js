@@ -12,7 +12,7 @@ const myArr2 = new Array(1, 2, 3, 4)
 // myArr.push(7)
 // myArr.pop()
 
-// myArr.unshift(9)
+myArr.unshift(9)
 // myArr.shift()
 
 // console.log(myArr.includes(9));
